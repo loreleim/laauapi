@@ -1,2 +1,2 @@
-# laauapi
- Lāʻau API for Native Hawaiian Plants
+# Lāʻau API
+An API for Native Hawaiian Plants
